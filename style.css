@@ -1,0 +1,38 @@
+nav{
+    background-color: white;
+    display: flex;
+justify-content: space-between;
+max-width: 1200px;
+margin: 0 auto;
+width: 100%;
+}
+
+
+ul{
+    display: flex;
+justify-content: space-between;
+list-style: none;
+gap: 10px;
+align-items: center;
+}
+
+
+.comon-btn{
+    background-color: #1D4ED8;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    border: none;
+}
+
+.navber_btn{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+   
+
+
+
+}
